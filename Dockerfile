@@ -8,4 +8,4 @@ RUN rm -rf node_modules package-lock.json && npm install
 
 EXPOSE 5000
 
-CMD ["node","index.js"]
+CMD ["node","index.js"] 
